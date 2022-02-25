@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e3508c4-3389-4337-b9a4-1ff6d820baa0" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> fda6fca (added another p tag)
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +44,7 @@
       <updated>1645760950865</updated>
       <workItem from="1645760953729" duration="377000" />
       <workItem from="1645761480817" duration="33000" />
-      <workItem from="1645761516133" duration="47000" />
+      <workItem from="1645761516133" duration="367000" />
     </task>
     <servers />
   </component>
